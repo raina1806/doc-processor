@@ -37,6 +37,7 @@ try:
         password=os.getenv("DB_PASSWORD"),
         port=os.getenv("DB_PORT")
     )
+    conn.autocommit = True
     cursor = conn.cursor(cursor_factory=RealDictCursor)
     print("Database connected successfully")
 except Exception as e:
@@ -151,7 +152,7 @@ async def upload_document(request: Request, file: UploadFile = File(...)):
                     (document_id, term["term"], term["value"])
                 )
 
-        conn.commit()
+        
 
         return {
             "document": document,
@@ -162,7 +163,7 @@ async def upload_document(request: Request, file: UploadFile = File(...)):
     except HTTPException:
         raise
     except Exception as e:
-        conn.rollback()
+        
         if os.path.exists(store_path):
             os.remove(store_path)
         raise HTTPException(status_code=500, detail=str(e))
@@ -179,7 +180,7 @@ def get_documents():
         documents = cursor.fetchall()
         return documents
     except Exception as e:
-        conn.rollback()
+        
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/api/documents/{document_id}/terms")
@@ -211,7 +212,7 @@ def get_terms(document_id: int):
     except HTTPException:
         raise
     except Exception as e:
-        conn.rollback()
+        
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.delete("/api/documents/{document_id}")
@@ -237,12 +238,12 @@ def delete_document(document_id: int):
             "DELETE FROM documents WHERE id = %s",
             (document_id,)
         )
-        conn.commit()
+
         return {"message": "Document deleted"}
     except HTTPException:
         raise
     except Exception as e:
-        conn.rollback()
+        
         raise HTTPException(status_code=500, detail=str(e))
     
 
@@ -394,7 +395,7 @@ def export_excel(document_id: int):
     except HTTPException:
         raise
     except Exception as e:
-        conn.rollback()
+        
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/api/documents/compare")
@@ -486,7 +487,7 @@ def compare_documents(doc1_id: int, doc2_id: int):
     except HTTPException:
         raise
     except Exception as e:
-        conn.rollback()
+        
         raise HTTPException(status_code=500, detail=str(e))
     
 

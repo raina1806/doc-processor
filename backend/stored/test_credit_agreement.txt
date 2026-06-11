@@ -1,0 +1,165 @@
+FACILITY AGREEMENT
+
+Dated: 15 January 2024
+
+PARTIES
+
+(1) MERIDIAN HOLDINGS LIMITED, a company incorporated in England and Wales 
+    (company number 09876543), whose registered office is at 
+    100 Bishopsgate, London, EC2N 4AG (the "Borrower");
+
+(2) ATLAS CAPITAL BANK PLC, a public limited company incorporated in 
+    England and Wales (company number 01234567), whose registered office 
+    is at 25 Canary Wharf, London, E14 5LQ (the "Lender");
+
+(3) STERLING TRUST CORPORATION LIMITED, acting as agent for the Lender 
+    (the "Agent").
+
+1. DEFINITIONS AND INTERPRETATION
+
+"Facility" means a term loan facility in an aggregate amount of 
+GBP 75,000,000 (seventy-five million pounds sterling).
+
+"Availability Period" means the period from the date of this Agreement 
+to 15 April 2024.
+
+"Final Maturity Date" means 15 January 2029.
+
+"Interest Rate" means the aggregate of SONIA plus the Margin.
+
+"Margin" means 3.25% per annum.
+
+"Repayment Date" means each date falling at quarterly intervals after 
+the first Utilisation Date.
+
+"Commitment Fee" means 1.10% per annum of the undrawn Facility.
+
+"Arrangement Fee" means GBP 750,000 payable on the date of this Agreement.
+
+"Break Costs" means the amount certified by the Lender as being its 
+loss incurred as a result of the Borrower repaying any Loan on a day 
+other than a Repayment Date.
+
+"Default Rate" means the Interest Rate plus 2.00% per annum.
+
+2. THE FACILITY
+
+2.1 Subject to the terms of this Agreement, the Lender makes available 
+to the Borrower a sterling term loan facility in an aggregate amount 
+equal to GBP 75,000,000.
+
+2.2 The purpose of the Facility is to finance the acquisition of 
+Pinnacle Real Estate Group Limited and to fund general corporate 
+and working capital requirements of the Borrower.
+
+3. UTILISATION
+
+3.1 The Borrower may utilise the Facility during the Availability Period 
+by delivering a Utilisation Request to the Agent not later than 
+10:00 a.m. three Business Days before the proposed Utilisation Date.
+
+3.2 The minimum amount of each Utilisation is GBP 5,000,000.
+
+4. REPAYMENT
+
+4.1 The Borrower shall repay the Facility in equal quarterly instalments 
+of GBP 3,750,000 commencing three months after the first Utilisation Date.
+
+4.2 The Borrower shall repay all outstanding amounts on the 
+Final Maturity Date.
+
+5. INTEREST
+
+5.1 The rate of interest on each Loan for each Interest Period is 
+the percentage rate per annum equal to SONIA plus 3.25% per annum.
+
+5.2 Interest shall be paid on the last day of each Interest Period, 
+which shall be three months unless otherwise agreed.
+
+5.3 If the Borrower fails to pay any amount on its due date, interest 
+shall accrue at the Default Rate from the due date until actual payment.
+
+6. FEES
+
+6.1 The Borrower shall pay to the Lender an Arrangement Fee of 
+GBP 750,000 on the date of this Agreement.
+
+6.2 The Borrower shall pay a Commitment Fee of 1.10% per annum 
+calculated on the undrawn and uncancelled amount of the Facility, 
+accruing daily from the date of this Agreement.
+
+7. SECURITY
+
+7.1 The obligations of the Borrower under this Agreement shall be 
+secured by:
+    (a) a first legal charge over the property at 
+        45 Victoria Street, London, SW1H 0JL;
+    (b) an assignment of rental income derived from the Property;
+    (c) a debenture over all assets of the Borrower.
+
+8. CONDITIONS PRECEDENT
+
+8.1 The Lender is not obliged to comply with any Utilisation Request 
+unless it has received the following documents:
+    (a) constitutional documents of the Borrower;
+    (b) a copy of the board resolution authorising the Facility;
+    (c) evidence of insurance over the secured property;
+    (d) a satisfactory valuation report from an approved valuer.
+
+9. REPRESENTATIONS AND WARRANTIES
+
+9.1 The Borrower represents and warrants that:
+    (a) it is duly incorporated and validly existing;
+    (b) it has the power to enter into this Agreement;
+    (c) its obligations are legal, valid and binding;
+    (d) no Event of Default is continuing.
+
+10. FINANCIAL COVENANTS
+
+10.1 The Borrower shall ensure that:
+    (a) Loan to Value Ratio shall not exceed 65% tested quarterly;
+    (b) Interest Coverage Ratio shall not be less than 2.00x tested 
+        semi-annually;
+    (c) Debt Service Coverage Ratio shall not be less than 1.25x 
+        tested annually.
+
+11. GENERAL UNDERTAKINGS
+
+11.1 The Borrower undertakes that it shall not, without prior written 
+consent of the Lender:
+    (a) create or permit to subsist any security over its assets;
+    (b) dispose of any material assets;
+    (c) make any acquisitions exceeding GBP 2,000,000;
+    (d) declare or pay any dividend while an Event of Default is continuing.
+
+12. EVENTS OF DEFAULT
+
+12.1 Each of the following is an Event of Default:
+    (a) non-payment of any amount due under this Agreement;
+    (b) breach of any financial covenant;
+    (c) insolvency of the Borrower;
+    (d) material adverse change in the financial condition of the Borrower;
+    (e) cross-default on any financial indebtedness exceeding GBP 5,000,000.
+
+12.2 On and at any time after the occurrence of an Event of Default, 
+the Lender may cancel the Facility and declare all outstanding 
+amounts immediately due and payable.
+
+13. GOVERNING LAW AND JURISDICTION
+
+13.1 This Agreement and any dispute or claim arising out of or in 
+connection with it shall be governed by and construed in accordance 
+with the laws of England and Wales.
+
+13.2 The parties irrevocably agree that the courts of England and Wales 
+shall have exclusive jurisdiction to settle any dispute.
+
+EXECUTED as a deed on the date first written above.
+
+SIGNED by MERIDIAN HOLDINGS LIMITED
+Director: James Richardson
+Witness: Sarah Chen
+
+SIGNED by ATLAS CAPITAL BANK PLC
+Authorised Signatory: Michael Thompson
+Witness: Emma Davies
