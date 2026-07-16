@@ -140,4 +140,14 @@ Open [http://localhost:5173](http://localhost:5173)
 | POST | `/api/documents/cancel` | Cancel ongoing processing |
 
 ---
-![Screenshots](Upload.jpg)
+## Screenshots
+
+### Upload
+![Upload](Upload.jpg)
+
+### Term Grid
+![Term Grid](termgrid.jpg)
+
+### Comparison
+![Comparison](compare1.jpg)
+![Comparison](compare2.jpg)
